@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(https://fondosmil.com/fondo/510.jpg);
+}
+
+.content {
+    display: flex;
+    font-family: 'Kanit', sans-serif;
+    
+}
+.nm {
+    margin-left: -11px;
+    font-size: 25px;
+    padding: 70px;
+    background-color: rgb(36, 121, 190); 
+}
+
+.cuerpo {
+    
+    height: 925px;
+    width: 1500px;
+    display: flex;
+}
+.derecha {
+    margin-top: 20px;
+    width: 675px;
+    height: 100%;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-right: -812px;
+}
+
+.izquierda {
+    height: 901px;
+    color: white;
+    margin-left: 500px;
+    width: 222px;
+    padding: 20px;
+    padding-left: 10px;
+    background-color: #1553d8;
+    
+}
+.logo {
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 175px;
+    height: 175px;
+    -moz-border-radius: 40%;
+    -webkit-border-radius: 40%;
+    border-radius: 50%;
+    background: #ffffff;
+    border: rgb(255, 255, 255) solid 10px;
+}
+.dat {
+    
+    color: white;
+}
+
+.cuerpo2 {
+    padding: 37px;
+    margin-left: 20px;
+}
+.profile {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: larger;
+    color: #009779;
+    font-size: 20px;
+}
+.gosu {
+    width: 200px;
+    display: flex;
+}
+
+.puntitos {
+    inline-size: auto;
+    display: flex;
+}
+ul {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+.inf {
+    text-align: center;
+}
+
+
+.social-icons {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-icons li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  .social-icons li a:hover {
+    color: #ffffff;
+  }
